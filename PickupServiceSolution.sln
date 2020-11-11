@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PickupService", "PickupService\PickupService.csproj", "{03A25F52-18AF-42DB-8F8D-400BED01F64A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestClient", "TestClient\TestClient.csproj", "{F4369FF6-3308-4EB3-BBA5-E3EDE74B4068}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03A25F52-18AF-42DB-8F8D-400BED01F64A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03A25F52-18AF-42DB-8F8D-400BED01F64A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03A25F52-18AF-42DB-8F8D-400BED01F64A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03A25F52-18AF-42DB-8F8D-400BED01F64A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4369FF6-3308-4EB3-BBA5-E3EDE74B4068}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4369FF6-3308-4EB3-BBA5-E3EDE74B4068}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4369FF6-3308-4EB3-BBA5-E3EDE74B4068}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4369FF6-3308-4EB3-BBA5-E3EDE74B4068}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9D3A5E57-DE71-4679-8FE5-C2909E8F1464}
+	EndGlobalSection
+EndGlobal
